@@ -1,4 +1,4 @@
-# js-fundamentals
+# JS Fundamentals
 Coursework for @SoftUni JS Fundamentals course from the JS Core module.
 
 ## Contents
