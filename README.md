@@ -31,6 +31,23 @@ Coursework for @SoftUni JS Fundamentals course from the JS Core module.
     * [Prime Number Checker](02-lab-control-flow-logic/12-prime-number-checker.js)
 
 3. **Exercise: [Syntax, Operators and Logic Flow](03-expressions-conditionals-loops)**
+
+    * [Hello Javascript](03-expressions-conditionals-loops/01-hello-javascript.js)
+    * [Area and Perimeter](03-expressions-conditionals-loops/02-area-and-perimeter.js)
+    * [Distance over Time](03-expressions-conditionals-loops/03-distance-over-time.js)
+    * [Distance in 3D](03-expressions-conditionals-loops/04-distance-in-3d.js)
+    * [Grads to Degrees](03-expressions-conditionals-loops/05-grads-to-radians.js)
+    * [Compound Interest](03-expressions-conditionals-loops/06-compound-interest.js)
+    * [Rounding](03-expressions-conditionals-loops/07-rounding.js)
+    * [Imperial Units](03-expressions-conditionals-loops/08-imperial-units.js)
+    * [Now Playing](03-expressions-conditionals-loops/09-now-playing.js)
+    * [Compose Tag](03-expressions-conditionals-loops/10-compose-tag.js)
+    * [Binary to Decimal](03-expressions-conditionals-loops/11-binary-to-decimal.js)
+    * [Assign Properties](03-expressions-conditionals-loops/12-assign-properties.js)
+    * [Last Month](03-expressions-conditionals-loops/13-last-month.js)
+    * [Biggest of 3 Numbers](03-expressions-conditionals-loops/14-biggest-of-3-numbers.js)
+    * [Point in Rectangle](03-expressions-conditionals-loops/15-point-in-rectangle.js)
+
 4. **Lab: [Functions](04-lab-functions-and-arrow-functions)**
 5. **Exercise: [Functions](05-functions-and-arrow-functions)**
 6. **Lab: [Arrays and Matrices](06-lab-arrays-and-matrices)**
