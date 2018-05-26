@@ -47,6 +47,12 @@ Coursework for @SoftUni JS Fundamentals course from the JS Core module.
     * [Last Month](03-expressions-conditionals-loops/13-last-month.js)
     * [Biggest of 3 Numbers](03-expressions-conditionals-loops/14-biggest-of-3-numbers.js)
     * [Point in Rectangle](03-expressions-conditionals-loops/15-point-in-rectangle.js)
+    * [Odd Numbers 1 to N](03-expressions-conditionals-loops/16-odd-numbers-1-to-n.js)
+    * [Triangle of Dollars](03-expressions-conditionals-loops/17-triangle-of-dollars.js)
+    * [Movie Prices](03-expressions-conditionals-loops/18-movie-prices.js)
+    * [Quadratic Equation](03-expressions-conditionals-loops/19-quadratic-equation.js)
+    * [Multiplication Table](03-expressions-conditionals-loops/20-multiplication-table.js)
+    * [Figure of 4 Squares](03-expressions-conditionals-loops/21-figure-of-4-squares.js)
 
 4. **Lab: [Functions](04-lab-functions-and-arrow-functions)**
 5. **Exercise: [Functions](05-functions-and-arrow-functions)**
