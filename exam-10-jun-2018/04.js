@@ -27,14 +27,6 @@ function func(trips) {
     orderedCountries[key] = countries[key];
   })
 
-  // let orderedTowns = {};
-  // Object.values(orderedCountries).map(towns => {
-  //   Object.keys(towns).sort(function(a,b){return towns[a]-towns[b]})
-  //   .forEach(key => {
-  //     orderedTowns[key] = towns[key];
-  //   });
-  // });
-
   for (const c of Object.values(orderedCountries)) {
     let orderedCountry = {};
     Object.keys(c).sort(function (a, b) { return c[a] - c[b] })
